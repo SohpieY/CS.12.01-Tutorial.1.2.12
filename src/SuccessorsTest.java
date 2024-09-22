@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 class SuccessorsTest {
 
-    private int[][] array2d;
+    private int array2d;
 
     @BeforeEach
     void setUp() {
